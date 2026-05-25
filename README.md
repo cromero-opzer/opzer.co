@@ -1,2 +1,1 @@
-# opzer.co
-opzer.co main repository
+# opzer.co - Main Repository - Connected to Claude Code via GitHub MCP
